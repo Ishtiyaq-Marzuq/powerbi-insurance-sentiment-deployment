@@ -1,7 +1,8 @@
 # Power BI Insurance Sentiment Analysis and Deployment Framework
 A Power BI project for insurance data analysis featuring advanced visualizations, sentiment analysis, role-based security (RLS), and seamless deployment for insightful decision-making and reporting.
 
-![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Screenshot%202024-11-28%20220143.png)
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Insurance%20Analysis.png)
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ## Table of Contents
 
@@ -26,7 +27,7 @@ A Power BI project for insurance data analysis featuring advanced visualizations
    - [11. Implementing Row-Level Security (RLS)](#implementing-row-level-security-rls)
    - [12. Sentiment Analysis in Power Query](#sentiment-analysis-in-power-query)
    - [13. Deployment into Workspace](#deployment-into-workspace)
-3. [Conclusion](#conclusion)
+
 
 ---
 
@@ -85,6 +86,9 @@ After creating the visualizations in Power BI Desktop, the next step was to publ
 ### 6. Creating a Workspace
 
 A workspace was created in Power BI Service to organize the reports, datasets, and dashboards related to this project. A workspace acts as a container where all project files can be stored, and permissions can be managed. In this workspace, team members can collaborate, view reports, and track changes in a centralized location.
+
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Deployment.png)
+
 
 ### 7. Scheduling Data Refresh
 
