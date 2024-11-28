@@ -1,6 +1,8 @@
 # Power BI Insurance Sentiment Analysis and Deployment Framework
 A Power BI project for insurance data analysis featuring advanced visualizations, sentiment analysis, role-based security (RLS), and seamless deployment for insightful decision-making and reporting.
 
+![image alt] (https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/669a89b969a97bb64a1065faa7a52df457b0b0d7/Screenshot%202024-11-28%20220143.png)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
