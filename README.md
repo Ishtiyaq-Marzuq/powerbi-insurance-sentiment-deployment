@@ -116,7 +116,5 @@ Finally, after testing and refining the report, it was deployed into the Power B
 
 ---
 
-## Conclusion
 
-This project showcases how Power BI can be used to perform detailed insurance data analysis and create visually appealing reports.
 
