@@ -117,6 +117,8 @@ Roles were created in Power BI Desktop to define user access levels for the repo
 
 Row-Level Security (RLS) was implemented to restrict access to data at the row level. This security feature ensures that users only see the data relevant to them, based on predefined rules. For example, an insurance agent might only see the policies related to their region or department. RLS is crucial for protecting sensitive data and maintaining privacy within the report.
 
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/be197a5fc114277761631d3aa6ccdc40fb7c8779/Row%20Level%20Security.png)
+
 ### 12. Sentiment Analysis in Power Query
 
 Sentiment analysis was performed using Power Query to analyze customer feedback or policyholder comments. By extracting sentiment from text fields such as claims descriptions, we were able to classify them as positive, negative, or neutral. This added an extra layer of analysis, allowing stakeholders to understand the emotional tone of feedback and better respond to customer needs.
