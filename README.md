@@ -108,7 +108,7 @@ After configuring the scheduled refresh, it was crucial to test the functionalit
 ### 10. Creating & Testing Roles in Power BI Desktop
 
 Roles were created in Power BI Desktop to define user access levels for the report. This step ensures that different users have appropriate access to different parts of the data based on their role in the organization. Testing the roles helped confirm that users with different permissions could only access the data they were authorized to view.
-![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/665b1c4c53992831200b05d9f4c0c144fb593f2c/Creating%20and%20Testing%20Roles.png)
 
 ### 11. Implementing Row-Level Security (RLS)
 
