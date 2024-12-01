@@ -106,9 +106,6 @@ Drill Through Filters were implemented to allow users to right-click on a specif
 
 After configuring the scheduled refresh, it was crucial to test the functionality to ensure that the reports were being updated correctly. The scheduled refresh was tested by monitoring the report updates at regular intervals and verifying that the data matched the latest available information. Additionally, any changes made to the report were validated to confirm that updates appeared as expected.
 
-![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/2b18aa6cfc174860afa2cca2a1b3a476ef6c4d65/Gateway%20for%20PBI.png)
-
-![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ### 10. Creating & Testing Roles in Power BI Desktop
 
