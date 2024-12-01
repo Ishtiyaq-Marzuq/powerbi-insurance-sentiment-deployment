@@ -94,6 +94,7 @@ A workspace was created in Power BI Service to organize the reports, datasets, a
 ### 7. Scheduling Data Refresh
 
 To ensure the reports always reflect the most up-to-date data, scheduling data refreshes was essential. This feature allows reports to automatically pull the latest data from the source, ensuring accuracy and reducing the need for manual updates. Scheduling refreshes helps maintain data integrity and ensures that stakeholders always see the latest available information.
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ### 8. Drill Through Filters
 
@@ -102,10 +103,12 @@ Drill Through Filters were implemented to allow users to right-click on a specif
 ### 9. Testing Scheduled Refresh & Updating Report
 
 After configuring the scheduled refresh, it was crucial to test the functionality to ensure that the reports were being updated correctly. The scheduled refresh was tested by monitoring the report updates at regular intervals and verifying that the data matched the latest available information. Additionally, any changes made to the report were validated to confirm that updates appeared as expected.
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ### 10. Creating & Testing Roles in Power BI Desktop
 
 Roles were created in Power BI Desktop to define user access levels for the report. This step ensures that different users have appropriate access to different parts of the data based on their role in the organization. Testing the roles helped confirm that users with different permissions could only access the data they were authorized to view.
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ### 11. Implementing Row-Level Security (RLS)
 
