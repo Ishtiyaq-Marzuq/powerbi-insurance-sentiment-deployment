@@ -57,23 +57,24 @@ The first visualization technique was to display the raw data in a Table View. T
 
 #### Adding Slicers & Text
 
-Slicers were added to the report to allow users to dynamically filter the data based on certain parameters, such as insurance type or policyholder demographics. These interactive filters make it easy for users to segment and explore different subsets of the data. Text visuals were also included to provide context and explanations of each visualization, making the report more user-friendly and informative.
+Slicers were added to the report to allow users to dynamically filter the data based on certain parameters, such as policy type , claim
+number and customerid.These interactive filters make it easy for users to segment and explore different subsets of the data. Text visuals were also included to provide context and explanations of each visualization, making the report more user-friendly and informative.
 
 #### Adding Card Visuals
 
-Card visuals were utilized to display key metrics, such as total premiums, number of policies, and claims. These simple yet effective visualizations help in summarizing large volumes of data into easy-to-understand numbers. Card visuals allow users to quickly grasp the most important metrics at a glance.
+Card visuals were utilized to display key metrics, such as, number of Male, and Females. These simple yet effective visualizations help in summarizing large volumes of data into easy-to-understand numbers. Card visuals allow users to quickly grasp the most important metrics at a glance.
 
 #### Adding Donut Chart & Matrix Visual
 
-The Donut Chart was used to display categorical data, such as the distribution of policies across different types (e.g., life, health, and auto insurance). This chart type provides a clear representation of proportions. The Matrix Visual, on the other hand, was used for displaying multi-dimensional data, where rows and columns represent different categories, and the intersections display aggregated values. This was helpful for analyzing relationships between different factors, such as insurance type and claims status.
+The Donut Chart was used to display categorical data, such as the Active and Inactive policies .This chart type provides a clear representation of proportions. The Matrix Visual, on the other hand, was used for displaying multi-dimensional data, where rows and columns represent different categories, and the intersections display aggregated values. This was helpful for analyzing relationships between different factors.
 
 #### Adding Multi Row Card & Ribbon Chart
 
-The Multi Row Card displayed several key metrics in a compact layout, allowing users to see multiple data points at once. The Ribbon Chart was employed to display trends over time, showing how values such as premiums or claims have changed over the course of several periods. This visual is particularly useful for identifying patterns and seasonality.
+The Multi Row Card displayed several key metrics in a compact layout, allowing users to see multiple data points at once. The Ribbon Chart was employed to display trends over time, showing the number of claims by status or claims have changed over the course of several periods. This visual is particularly useful for identifying patterns and seasonality.
 
 #### Adding Bar & Line Chart
 
-Bar and Line Charts were added to further analyze data trends over time or across categories. The Bar Chart helped to compare values across different categories, such as premiums by region or type of insurance, while the Line Chart allowed for tracking changes in key metrics like claims frequency or revenue over time. Both visualizations are essential for understanding trends and identifying potential opportunities or issues.
+Bar and Line Charts were added to further analyze data trends over time or across categories. The Bar Chart helped to compare values across different categories, such as travel,health,auto,life,home. while the Line Chart allowed for tracking changes in key metrics like claims amount by age group. Both visualizations are essential for understanding trends and identifying potential opportunities or issues.
 
 ### 4. Create Power BI Account
 
@@ -120,3 +121,5 @@ Finally, after testing and refining the report, it was deployed into the Power B
 
 ---
 
+### Conclusion
+This project showcases how Power BI can be used to perform detailed insurance data analysis,sentiment analysis  and create visually appealing reports.
