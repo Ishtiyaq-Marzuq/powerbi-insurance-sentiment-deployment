@@ -2,6 +2,7 @@
 A Power BI project for insurance data analysis featuring advanced visualizations, sentiment analysis, role-based security (RLS), and seamless deployment for insightful decision-making and reporting.
 
 ![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Insurance%20Analysis.png)
+
 ![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ## Table of Contents
@@ -94,6 +95,7 @@ A workspace was created in Power BI Service to organize the reports, datasets, a
 ### 7. Scheduling Data Refresh
 
 To ensure the reports always reflect the most up-to-date data, scheduling data refreshes was essential. This feature allows reports to automatically pull the latest data from the source, ensuring accuracy and reducing the need for manual updates. Scheduling refreshes helps maintain data integrity and ensures that stakeholders always see the latest available information.
+
 ![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/b99aef4fe406ec371c07744912b3cf529cbc6855/Schedule%20Refresh.png)
 
 ### 8. Drill Through Filters
@@ -103,12 +105,15 @@ Drill Through Filters were implemented to allow users to right-click on a specif
 ### 9. Testing Scheduled Refresh & Updating Report
 
 After configuring the scheduled refresh, it was crucial to test the functionality to ensure that the reports were being updated correctly. The scheduled refresh was tested by monitoring the report updates at regular intervals and verifying that the data matched the latest available information. Additionally, any changes made to the report were validated to confirm that updates appeared as expected.
-![Alt text]((https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/2b18aa6cfc174860afa2cca2a1b3a476ef6c4d65/Gateway%20for%20PBI.png)
+
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/2b18aa6cfc174860afa2cca2a1b3a476ef6c4d65/Gateway%20for%20PBI.png)
+
 ![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
 
 ### 10. Creating & Testing Roles in Power BI Desktop
 
 Roles were created in Power BI Desktop to define user access levels for the report. This step ensures that different users have appropriate access to different parts of the data based on their role in the organization. Testing the roles helped confirm that users with different permissions could only access the data they were authorized to view.
+
 ![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/665b1c4c53992831200b05d9f4c0c144fb593f2c/Creating%20and%20Testing%20Roles.png)
 
 ### 11. Implementing Row-Level Security (RLS)
