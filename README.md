@@ -44,6 +44,10 @@ This project demonstrates the analysis of insurance data using Power BI, a power
 
 The first step of the project was to import the raw insurance dataset into an MSSQL Server database. This process involved connecting to the database, creating tables, and ensuring that the data was organized and properly structured. By storing the data in an MSSQL Server, the dataset became easily accessible for data analysis and reporting, allowing us to work with large datasets efficiently. The database connection was set up in Power BI, ensuring seamless integration and extraction of the data for further processing.
 
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/55adbbbe8f1e79684769a7ad4890990e8b215112/Create%20a%20Database.png)
+
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/55adbbbe8f1e79684769a7ad4890990e8b215112/Importing%20the%20Data.png)
+
 ### 2. Loading Data to Power BI Desktop
 
 Once the insurance data was imported into MSSQL Server, the next step was to load it into Power BI Desktop. Power BI Desktop provides powerful data modeling capabilities, where users can connect to a variety of data sources, including SQL databases, Excel files, and online services. After loading the data into Power BI, various transformations and cleaning procedures were performed, including renaming columns, handling missing values, and creating relationships between tables. This step ensures that the data is well-structured and ready for visualization.
