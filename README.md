@@ -94,7 +94,7 @@ A workspace was created in Power BI Service to organize the reports, datasets, a
 ### 7. Scheduling Data Refresh
 
 To ensure the reports always reflect the most up-to-date data, scheduling data refreshes was essential. This feature allows reports to automatically pull the latest data from the source, ensuring accuracy and reducing the need for manual updates. Scheduling refreshes helps maintain data integrity and ensures that stakeholders always see the latest available information.
-![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/main/Sentiment%20Analysis.png)
+![Alt text](https://github.com/Ishtiyaq-Marzuq/powerbi-insurance-sentiment-deployment/blob/b99aef4fe406ec371c07744912b3cf529cbc6855/Schedule%20Refresh.png)
 
 ### 8. Drill Through Filters
 
